@@ -115,3 +115,6 @@ Prog. Keahlian Teknik Komputer dan Informatika : 92</p>
     </table>
 </div>
 </template>
+<script setup>
+useHead({ title: "PROFILE" })
+</script>

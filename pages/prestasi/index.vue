@@ -20,3 +20,6 @@
     scrollbar-width: thin;
 }
 </style>
+<script setup>
+useHead({ title: "PRESTASI" })
+</script>

@@ -22,3 +22,6 @@ img{
     border-radius: 100%;
 }
 </style>
+<script setup>
+useHead({ title: "EKSTRAKULIKULER" })
+</script>
